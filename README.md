@@ -2,6 +2,8 @@
 Mean teacher methode for image classification
 
 
+![image](https://user-images.githubusercontent.com/59926481/203343340-5ac9cdcc-89aa-48b4-baf3-74a83b4c7b93.png)
+
 Mean Teacher is a simple method for semi-supervised learning. It consists of the following steps:
 
 Take a supervised architecture and make a copy of it. Let's call the original model the student and the new one the teacher.
